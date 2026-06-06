@@ -1,0 +1,7 @@
+Project Name: Mraprguild Termux YouTube Downloader
+Version: 1.0.0
+Author: Mraprguild
+Platform: Termux / Android
+Main Command: ytd
+Download Folder: Internal Storage/Download/YouTube
+Screenshot: assets/screenshot.png
