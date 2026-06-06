@@ -124,7 +124,7 @@ Copy and Paste Code
 
 ```bash
 git clone https://github.com/Mraprguild/Termux-Youtube-Downloader.git
-cd termux-os
+cd Termux-Youtube-Downloader
 
 ```
 
