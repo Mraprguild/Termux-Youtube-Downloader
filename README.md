@@ -118,13 +118,14 @@ Select an option:
 pkg update -y && pkg upgrade -y
 ```
 
-### Step 2 — Extract the project
+### Step 2 — Installation
 
-Move the downloaded ZIP into your preferred directory and extract it.
+Copy and Paste Code 
 
 ```bash
-unzip Mraprguild-Termux-YouTube-Downloader-Complete-v1.0.0.zip
-cd Termux-YouTube-Downloader
+git clone https://github.com/Mraprguild/Termux-Youtube-Downloader.git
+cd termux-os
+
 ```
 
 ### Step 3 — Run the installer
